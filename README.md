@@ -481,7 +481,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [Handmade Hero: Week 0](https://hero.handmade.network/episodes)
+    - [x] [Handmade Hero: Week 0](https://hero.handmade.network/episodes)
 	- A fantastic set of lectures on memory management in C and other goodies. I strongly recommend commiting 
 	  to following the project if time permits. Part of of the [HandmadeDev](https://handmadedev.org/), the seires
 	  guides you through the development of a full 2-D game in C.
